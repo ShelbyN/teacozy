@@ -169,3 +169,37 @@ p {
   color: seashell;
   font-size: 18px;
 }
+
+
+/* Contact */
+#contact {
+  height: 200px;
+  display: block;
+  font-family: Helvetica;
+  color: seashell;
+  font-size 22px;
+  text-align: center;
+}
+
+/* Footer */
+footer h6{
+  text-align: left;
+  padding-left: 20px;
+  font-family: Helvetica;
+  color: seashell;
+  font-size 22px;
+  display: block;
+}
+
+h5 {
+  font-size: 18px;
+  display: block;
+  color: seashell;
+  font-family: Helvetica;
+  font-weight: bold;
+  background-color: black;
+  width: 1200px;
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
